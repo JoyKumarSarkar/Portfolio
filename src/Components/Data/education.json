@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "organization": "Brainware University",
+    "designation": "B.Tech CSE",
+    "startDate": "2020",
+    "endDate": " - 2024",
+    "imgSrc":"Education/BWU.png"
+  },
+  {
+    "id": 2,
+    "organization": "Alipurduar High School",
+    "designation": "Class XII : WBCHSE(2019)",
+    "startDate": "2017",
+    "endDate": " - 2019",
+    "imgSrc":"Education/APDHS.jpg"
+  },
+  {
+    "id": 3,
+    "organization": "Kholta High School",
+    "designation": "Class X : WBBSE(2017)",
+    "startDate": "2011",
+    "endDate": " - 2017",
+    "imgSrc":"Education/KHS.jpg"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "key": 1,
+    "title": "Netflix Clone",
+    "imageSrc": "projects/Netflix.png",
+    "description": "This is a project made with HTML, CSS and JS",
+    "demo": "https://netflikxxclone.netlify.app/",
+    "source": "https://github.com/JoyKumarSarkar/Netflix"
+  },
+  {
+    "key": 2,
+    "title": "Weather app",
+    "imageSrc": "projects/weather.jpg",
+    "description": "This app fetches weather data using API, made with react js",
+    "demo": "https://my-react-weatheapp-project.netlify.app/",
+    "source": "https://github.com/JoyKumarSarkar/WeatherApp"
+  }
+  
+]
