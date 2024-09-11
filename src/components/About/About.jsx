@@ -30,10 +30,10 @@ function about() {
             </article>
           </div>
           <p>
-            I am pursuing B.Tech in Computer Science and Engineering from Brainware University,
+            I have recently completed my B.Tech in Computer Science and Engineering from Brainware University,
             and am looking for an entry-level role to kickstart my career in
             Software Development.<br />
-            <br /> I have knowledge in Java, Oop, Data structure, Database, programming, React, SQL.
+            <br /> I have knowledge in Java, Js, Oop, Data structure, Database, programming, React, SQL.
           </p>
 
           <a href="#contact" className="btn btn-primary">
