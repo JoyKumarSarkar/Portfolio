@@ -54,18 +54,6 @@ function Experience() {
                 <h4>SQL</h4>
               </div>
             </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>MongoDB</h4>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience_details-icon" />
-              <div>
-                <h4>Next.Js</h4>
-              </div>
-            </article>
           </div>
         </div>
         <div className="experience_backend">

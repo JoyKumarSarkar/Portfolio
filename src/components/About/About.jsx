@@ -26,14 +26,14 @@ function about() {
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
-              <small>4+ Completed Projects</small>
+              <small>8+ Completed Projects</small>
             </article>
           </div>
           <p>
-            I have recently completed my B.Tech in Computer Science and Engineering from Brainware University,
-            and am looking for an entry-level role to kickstart my career in
+            I have completed my B.Tech in Computer Science and Engineering from Brainware University.
+            I am looking for an entry-level role to kickstart my career in
             Software Development.<br />
-            <br /> I have knowledge in Java, Js, Oop, Data structure, Database, programming, React, SQL.
+            <br /> I have knowledge in Java, Oop, Data structure, programming, React, SQL.
           </p>
 
           <a href="#contact" className="btn btn-primary">

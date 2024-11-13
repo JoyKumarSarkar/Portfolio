@@ -4,6 +4,7 @@ import { Box, Card, CardContent, Typography, CardActions } from "@mui/material";
 import Net from "../../Assets/Netflix.png";
 import Wea from "../../Assets/weather.png";
 import Le from "../../Assets/LiveEditor.png";
+import Li from "../../Assets/linkora.png";
 
 
 
@@ -40,7 +41,7 @@ function Portfolio() {
                   Github
                 </a>
                 <a
-                  href="https://netflcks.vercel.app/"
+                  href="https://netflikxxclone.netlify.app/"
                   className="btn btn-primary"
                 >
                   Live Demo
@@ -101,6 +102,36 @@ function Portfolio() {
                 </a>
                 <a
                   href="https://modern-live-editor.netlify.app/"
+                  className="btn btn-primary"
+                >
+                  Live Demo
+                </a>
+              </CardActions>
+            </CardContent>
+          </Card>
+        </Box>
+
+        <Box width="350px" sx={{ margin: "0 auto" }}>
+          <Card style={boxstyle}>
+            <CardContent>
+              <img src={Li} alt="" className="portfolio_img" />
+              <Typography
+                gutterbottom
+                variant="h5"
+                component="div"
+                sx={{ marginTop: "20px" }}
+              >
+                linkora
+              </Typography>
+              <CardActions sx={{ marginTop: "10px" }}>
+                <a
+                  href="https://github.com/JoyKumarSarkar/linkora"
+                  style={{ marginRight: "10px" }}
+                >
+                  Github
+                </a>
+                <a
+                  href="https://linkora-application.vercel.app/"
                   className="btn btn-primary"
                 >
                   Live Demo
