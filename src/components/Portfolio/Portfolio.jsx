@@ -17,7 +17,7 @@ const boxstyle = {
 function Portfolio() {
   return (
     <section id="portfolio" data-aos="fade-up" data-aos-duration="3000">
-      <h5>My Recent Work                        lkjhgfghjklkjhg</h5>
+      <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
 
       <div className="portfolio_cards">
