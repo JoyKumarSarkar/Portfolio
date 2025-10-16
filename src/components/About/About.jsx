@@ -20,7 +20,7 @@ function about() {
             <article className="about_card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Fresher</small>
+              <small>1 Year</small>
             </article>
 
             <article className="about_card">
@@ -30,10 +30,9 @@ function about() {
             </article>
           </div>
           <p>
-            I have completed my B.Tech in Computer Science and Engineering from Brainware University.
-            I am looking for an entry-level role to kickstart my career in
-            Software Development.<br />
-            <br /> I have knowledge in Java, Oop, Data structure, programming, React, SQL.
+            Hi there!
+            I'm Joy Kumar Sarkar, a B.Tech Graduate in Computer Science & Engineering from Brainware University, and employed full-time as a Trainee Programmer at ADA Software Re Engineering Services Pvt. Ltd.. I'm currently working on .NET Core, React.js and Next.js.<br />
+            <br /> I have knowledge in C#, Java, OOPs, Data structures and SQL.
           </p>
 
           <a href="#contact" className="btn btn-primary">

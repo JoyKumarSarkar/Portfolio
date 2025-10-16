@@ -10,9 +10,15 @@ function Experience() {
 
       <div className="container experience_container">
         <div className="experience_frontend">
-          <h3>Language Known</h3>
+          <h3>Tech Stack</h3>
           <div className="experience_content">
           <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>C#</h4>
+              </div>
+            </article>
+            <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Java</h4>
@@ -21,48 +27,72 @@ function Experience() {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>C</h4>
+                <h4>React.js</h4> 
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>HTML</h4> 
+                <h4>Redux</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>CSS</h4>
+                <h4>Angular.js</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Javascript</h4>
+                <h4>Next.js</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>React</h4>
+                <h4>.Net Core</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>SQL</h4>
+                <h4>.Net Framework</h4>
+              </div>
+            </article>
+             <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Entity Framework</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Sql Server Management Studio</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>PL/SQL Developer</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Power Tool</h4>
               </div>
             </article>
           </div>
         </div>
         <div className="experience_backend">
-          <h3>Concept Known</h3>
+          <h3>Concepts</h3>
           <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>DS</h4>
+                <h4>Data Structures</h4>
               </div>
             </article>
             <article className="experience_details">
@@ -74,13 +104,25 @@ function Experience() {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>DBMS</h4>
+                <h4>Database Management Systems</h4>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>OS</h4>
+                <h4>Language Integrated Query (LINQ)</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Web APIs</h4>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>MVC Arcitechtures</h4>
               </div>
             </article>
           </div>
