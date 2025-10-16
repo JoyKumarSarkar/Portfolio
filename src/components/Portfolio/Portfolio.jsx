@@ -41,7 +41,7 @@ function Portfolio() {
                   Github
                 </a>
                 <a
-                  href="https://netflikxxclone.netlify.app/"
+                  href="https://netflcks.vercel.app/"
                   className="btn btn-primary"
                 >
                   Live Demo
