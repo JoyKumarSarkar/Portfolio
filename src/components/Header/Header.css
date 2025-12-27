@@ -1,8 +1,15 @@
-header {
+/* header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+} */
+
+header {
+    height: 100vh;
+    padding-top: 5rem; /* navbar height + small spacing */
+    overflow: hidden;
 }
+
 
 .header_container {
     text-align: center;

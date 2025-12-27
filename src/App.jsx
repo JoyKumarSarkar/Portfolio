@@ -17,10 +17,11 @@ const App = () => {
   React.useEffect(() => {
     Aos.init({
       disable: "mobile",
-    });
+    }); 
   });
   return (
     <>
+      {/* <TopNav /> */}
       <Header />
       <Nav />
       <About />
@@ -29,7 +30,7 @@ const App = () => {
       <Portfolio />
       <Contact />
       <Footer />
-      <Analytics />
+      <Analytics /> 
     </>
   );
 };

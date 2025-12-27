@@ -2,14 +2,11 @@ import React from "react";
 import "./Footer.css";
 import { BsInstagram } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
 
 function Footer() {
   return (
     <footer>
-      <a href="/" className="footer_logo">
-        JOY
-      </a>
-
       <ul className="permalinks">
         <li>
           <a href="/">Home</a>
@@ -27,6 +24,10 @@ function Footer() {
 
         <a href="https://www.instagram.com/joysarkar1236/">
           <BsInstagram />
+        </a>
+
+        <a href="https://www.linkedin.com/in/joy-kumar-sarkar/">
+          <BsLinkedin />
         </a>
       </div>
 
